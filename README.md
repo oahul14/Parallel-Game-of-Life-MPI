@@ -3,7 +3,7 @@
 
 ## Module coordinator and teaching staff
 
-[Adriana Paluszny](http://www.imperial.ac.uk/people/a.paluszny) [(email)](mailto:a.paluszny@imperial.ac.uk) 
+[Adriana Paluszny](http://www.imperial.ac.uk/people/apaluszn) [(email)](mailto:apaluszn@imperial.ac.uk) 
 
 [Steven Dargaville](http://www.imperial.ac.uk/people/s.dargaville) [(email)](mailto:s.dargaville@imperial.ac.uk) 
 
