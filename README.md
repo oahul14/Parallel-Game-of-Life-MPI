@@ -43,22 +43,35 @@ For those that love the touch of paper, we suggest:
 ## Lecture Plan 
 
 **Week 1**
+
 1. 13/01 9:00-12:00 (Monday) – Introduction: C++, setting up MSVC IDE, compiling and linking, executables. Data types. Getting started. (Adriana Paluszny)
+
 2. 14/01 9:00-12:00 & 1:00-2:30 (Tuesday) (Steven Dargaville)
+
 X. 15/01 (Wednesday) -> Azure workshop (Microsoft)
+
 3. 16/01 9:00-12:00 (Thursday) (Adriana Paluszny)
+
 4. 17/01 9:00-12:00 & 1:00-2:30 (Friday) (Adriana Paluszny)
 
 **Week 2**
+
 5. 20/01 9:00-12:00 (Monday) (Steven Dargaville)
+
 6. 21/01 9:00-12:00 (Tuesday) (Steven Dargaville)
+
 7. 22/01 9:00-12:00 (Wednesday) (Steven Dargaville)
+
 8. 23/01 9:00-12:00 (Thursday) (Steven Dargaville)
+
 9. 24/01 9:00-12:00 (Friday) (Steven Dargaville)
 
 **Week 3**
+
 10. 27/01 9:00-12:00 (Monday) **In-class Coursework**
+
 11. 28/01 9:00-12:00 (Tuesday) (Adriana Paluszny)
+
 12. 29/01 9:00-12:00 (Wednesday) (Adriana Paluszny) **External Invited Lecture**
 
 ## Team
