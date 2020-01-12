@@ -48,7 +48,7 @@ For those that love the touch of paper, we suggest:
 
 2. 14/01 9:00-12:00 & 1:00-2:30 (Tuesday) (Steven Dargaville)
 
-X. 15/01 (Wednesday) -> Azure workshop (Microsoft)
+(( 15/01 (Wednesday) -> Azure workshop (Microsoft) ))
 
 3. 16/01 9:00-12:00 (Thursday) (Adriana Paluszny)
 
