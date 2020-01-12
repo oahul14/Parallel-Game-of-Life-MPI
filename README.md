@@ -42,7 +42,24 @@ For those that love the touch of paper, we suggest:
 
 ## Lecture Plan 
 
-1. 13/01 – Introduction: C++, setting up MSVC IDE, compiling and linking, executables. Data types. Getting started. [Slides1](Lecture1.pdf) [Code1](1main_hello_world.cpp) [Code2](2main_prime.cpp) [Assignment1](ACSE5-Assignment1.pdf) [**Please use your city of choice to register your team**] [**Please see Assignment and Evaluation teams tab for registered cities**] (Adriana Paluszny)
+**Week 1**
+1. 13/01 9:00-12:00 (Monday) – Introduction: C++, setting up MSVC IDE, compiling and linking, executables. Data types. Getting started. (Adriana Paluszny)
+2. 14/01 9:00-12:00 & 1:00-2:30 (Tuesday) (Steven Dargaville)
+X. 15/01 (Wednesday) -> Azure workshop (Microsoft)
+3. 16/01 9:00-12:00 (Thursday) (Adriana Paluszny)
+4. 17/01 9:00-12:00 & 1:00-2:30 (Friday) (Adriana Paluszny)
+
+**Week 2**
+5. 20/01 9:00-12:00 (Monday) (Steven Dargaville)
+6. 21/01 9:00-12:00 (Tuesday) (Steven Dargaville)
+7. 22/01 9:00-12:00 (Wednesday) (Steven Dargaville)
+8. 23/01 9:00-12:00 (Thursday) (Steven Dargaville)
+9. 24/01 9:00-12:00 (Friday) (Steven Dargaville)
+
+**Week 3**
+10. 27/01 9:00-12:00 (Monday) **In-class Coursework**
+11. 28/01 9:00-12:00 (Tuesday) (Adriana Paluszny)
+12. 29/01 9:00-12:00 (Wednesday) (Adriana Paluszny) **External Invited Lecture**
 
 ## Team
 
@@ -53,15 +70,18 @@ For those that love the touch of paper, we suggest:
 
 ## Assignments and Evaluation
 
-There will be two homeworks (not marked), one assignment (marked), and one individual, in-class, computer-based programming **final coursework** (marked). The homework and the assignment can be completed individually or in pairs, the final coursework will be individual. Submission will be via GitHub [details will follow].
+There will be two homeworks (not marked), one assignment (marked), and one individual, in-class, computer-based programming **final coursework** (marked). The homework should be completed after class during the afternoon sessions, these will not be collected nor assessed; you will receive GTA support to resolve these during afternoon sessions.
+
+The homework and the assignment can be completed individually or in pairs, the final coursework will be individual. Submission will be via GitHub [details will follow].
+
 1. Homework 1: Climate Change Focus: How can we predict temperature changes? ☀️🌤⛅️🌥☁️🌦🌧⛈🌩🌨
-- ⚡️⚡️⚡️ Looking for a plotting solution? Try downloading [gnuplot](http://www.gnuplot.info), and use this code to get started [CodeGNUPLOT](10gnuplot.cpp)⚡️⚡️⚡️
+- Looking for a plotting solution? Try downloading [gnuplot](http://www.gnuplot.info), and use this code to get started [CodeGNUPLOT](10gnuplot.cpp)
 
 2. Homework 2: Implementing a medical imaging filter. 
 
-3. Assignment: Implementing a linear solver. 
+3. Assignment: Implementing a linear solver. Due: 2nd of February @ midnight - early submissions welcome.
 
-4. Final Coursework: The final piece of coursework will be to be completed in-class during our last session, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment.
+4. Final Coursework: The final piece of coursework will be to be completed in-class during our last session, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment. On: 27th of January. 
 
 ## Feedback and Questions
 - You can send any questions/feedback to Adriana (apaluszn@imperial.ac.uk) or Steven (s.dargaville@imperial.ac.uk) or ask any of the team members directly during class.
