@@ -51,7 +51,6 @@ X. 15/01 (Wednesday) -> Azure workshop (Microsoft)
 
 **Week 2**
 5. 20/01 9:00-12:00 (Monday) (Steven Dargaville)
-
 6. 21/01 9:00-12:00 (Tuesday) (Steven Dargaville)
 7. 22/01 9:00-12:00 (Wednesday) (Steven Dargaville)
 8. 23/01 9:00-12:00 (Thursday) (Steven Dargaville)
