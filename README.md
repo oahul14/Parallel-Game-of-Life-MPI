@@ -101,4 +101,6 @@ The homework and the assignment can be completed individually or in pairs, the f
 - If you would like to make a question or leave feedback anonymously: please go to www.menti.com and use the code 74 53 1
 Try not to hurt our feelings though ! 🤓
 
+## GTA Blackboard {comments by the GTA team]}
 
+- We will be there to support you!
