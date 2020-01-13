@@ -44,15 +44,15 @@ For those that love the touch of paper, we suggest:
 
 **Week 1**
 
-1. 13/01 9:00-12:00 (Monday) – Introduction: C++, setting up MSVC IDE, compiling and linking, executables. Data types. Getting started. (Adriana Paluszny)
+1. 13/01 9:00-12:00 (Monday) – Introduction: C++, setting up MSVC IDE, compiling and linking, executables. Data types. Getting started. [Slides1](ACSE5-2020-Lecture1.pdf) [Code1](1main_hello_world.cpp) [Homework1](ACSE5-2020-Homework1.pdf) (Adriana Paluszny)
 
-2. 14/01 9:00-12:00 & 1:00-2:30 (Tuesday) (Steven Dargaville)
+2. 14/01 9:00-12:00 and 1:00-2:30 (Tuesday) (Steven Dargaville)
 
 (( 15/01 (Wednesday) -> Azure workshop (Microsoft) ))
 
 3. 16/01 9:00-12:00 (Thursday) (Adriana Paluszny)
 
-4. 17/01 9:00-12:00 & 1:00-2:30 (Friday) (Adriana Paluszny)
+4. 17/01 9:00-12:00 and 1:00-2:30 (Friday) (Adriana Paluszny)
 
 **Week 2**
 
