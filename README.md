@@ -48,6 +48,8 @@ For those that love the touch of paper, we suggest:
 
 2. 14/01 9:00-12:00 [Slides2](Lecture_2.pdf) [code2](lecture_2_code.zip) and 1:00-2:30 (Tuesday) (Steven Dargaville)
 
+2.5 14/01 13:00-14:30 [Slides3](ACSE5-2020-Lecture3.pdf) [Code_Templates](4main_template.cpp)
+
 (( 15/01 (Wednesday) -> Azure workshop (Microsoft) ))
 
 3. 16/01 9:00-12:00 (Thursday) (Adriana Paluszny)
