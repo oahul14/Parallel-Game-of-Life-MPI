@@ -46,9 +46,7 @@ For those that love the touch of paper, we suggest:
 
 1. 13/01 9:00-12:00 (Monday) – Introduction: C++, setting up MSVC IDE, compiling and linking, executables. Data types. Getting started. [Slides1](ACSE5-2020-Lecture1.pdf) [Code1](main_acse5_lecture1.cpp) [MoreCode](1main_hello_world.cpp) [Homework1](ACSE5-2020-Homework1.pdf) (Adriana Paluszny)
 
-2. 14/01 9:00-12:00 [Slides2](Lecture_2.pdf) [code2](lecture_2_code.zip) and 1:00-2:30 (Tuesday) (Steven Dargaville)
-
-2.5 14/01 13:00-14:30 [Slides3](ACSE5-2020-Lecture3.pdf) [Code_Templates](4main_template.cpp)
+2. 14/01 9:00-12:00 [Slides2](Lecture_2.pdf) [code2](lecture_2_code.zip) and 1:00-2:30 (Tuesday) (Steven Dargaville) ---- 14/01 13:00-14:30 [Slides3](ACSE5-2020-Lecture3.pdf) [Code_Templates](4main_template.cpp) (AP)
 
 (( 15/01 (Wednesday) -> Azure workshop (Microsoft) ))
 
@@ -89,10 +87,10 @@ There will be two homeworks (not marked), one assignment (marked), and one indiv
 
 The homework and the assignment can be completed individually or in pairs, the final coursework will be individual. Submission will be via GitHub [details will follow].
 
-1. Homework 1: Climate Change Focus: How can we predict temperature changes? ☀️🌤⛅️🌥☁️🌦🌧⛈🌩🌨
+1. [Homework 1](ACSE5-2020-Homework1.pdf): Climate Change Focus: How can we predict temperature changes? ☀️🌤⛅️🌥☁️🌦🌧⛈🌩🌨
 - Looking for a plotting solution? Try downloading [gnuplot](http://www.gnuplot.info), and use this code to get started [CodeGNUPLOT](10gnuplot.cpp)
 
-2. Homework 2: Implementing a medical imaging filter. 
+2. [Homework 2](ACSE5-2020-Homework2.pdf): Implementing a medical imaging filter. 
 
 3. Assignment: Implementing a linear solver. Due: 2nd of February @ midnight - early submissions welcome.
 
