@@ -44,17 +44,17 @@ For those that love the touch of paper, we suggest:
 
 **Week 1**
 
-1. 13/01 9:00-12:00 (Monday) – Introduction: C++, setting up MSVC IDE, compiling and linking, executables. Data types. Getting started. [Slides1](ACSE5-2020-Lecture1.pdf) [Code-First-Example](main_acse5_lecture1.cpp) [Code-Hello-World](1main_hello_world.cpp) [Homework1](ACSE5-2020-Homework1.pdf) (Adriana Paluszny)
+1. 13/01 9:00-12:00 (Monday) – Introduction: C++, setting up MSVC IDE, compiling and linking, executables. Data types. Getting started. [Slides1](ACSE5-2020-Lecture1.pdf) - [Code-First-Example](main_acse5_lecture1.cpp) - [Code-Hello-World](1main_hello_world.cpp) - [Homework1](ACSE5-2020-Homework1.pdf) (Adriana Paluszny)
 
-2. 14/01 9:00-12:00 Functional programming. Input/output. Pointers and References. Introduction to containers. Functions: passing by value and reference. Static vs. dynamic arrays.  [Slides2](Lecture_2.pdf) [code2](lecture_2_code.zip) and 1:00-2:30 (Tuesday) (Steven Dargaville) ---- 14/01 13:00-14:30 [Slides3](ACSE5-2020-Lecture3.pdf) [Code-Templates](4main_template.cpp) (AP)
+2. 14/01 9:00-12:00 Functional programming. Input/output. Pointers and References. Introduction to containers. Functions: passing by value and reference. Static vs. dynamic arrays.  [Slides2](Lecture_2.pdf) - [code2](lecture_2_code.zip) and 1:00-2:30 (Tuesday) (Steven Dargaville) ---- 14/01 13:00-14:30 [Slides3](ACSE5-2020-Lecture3.pdf) - [Code-Templates](4main_template.cpp) (AP)
 
 (( 15/01 (Wednesday) -> Azure workshop (Microsoft) ))
 
-3. 16/01 9:00-12:00 (Thursday) Introduction to objects (using objects). Overview of the standard template library (STL). Introduction to static and dynamic linking. Declarations and Definitions. enum, class, struct, typedef. Introduction to template functions. Factorial example. Introduction to STL containers: vectors, deque, list, map, set, multimap, multiset. Creating simple objects. Class, constructor, destructor. [Code-main-const](3main_const.cpp) [Code-log](3log1.cpp) [Code-template](4main_template.cpp) [Code-stl](5main_stl_class_start.cpp) [Code-stl-containers](6main_stl_containers.cpp) [Code-factorial](7factorial.cpp) (Adriana Paluszny)
+3. 16/01 9:00-12:00 (Thursday) Introduction to objects (using objects). Overview of the standard template library (STL). Introduction to static and dynamic linking. Declarations and Definitions. enum, class, struct, typedef. Introduction to template functions. Factorial example. Introduction to STL containers: vectors, deque, list, map, set, multimap, multiset. Creating simple objects. Class, constructor, destructor. [Code-main-const](3main_const.cpp) - [Code-log](3log1.cpp) - [Code-template](4main_template.cpp) - [Code-stl](5main_stl_class_start.cpp) - [Code-stl-containers](6main_stl_containers.cpp) - [Code-factorial](7factorial.cpp) (Adriana Paluszny)
 
-4. 17/01 9:00-12:00 and 1:00-2:30 (Friday)  Object oriented programming (creating objects). Copy constructor, members, operators, mutators, accessors. MSVC Debugger. Introduction to Inheritance, Polymorphism & Encapsulation in C++. [Slides4](ACSE5-2020-Lecture4.pdf) [Code-debug](10debug.cpp)  [Code-gnuplot](10gnuplot.cpp) [Code-operators](11operators.cpp) [Code-class-copy](12class_copy_etal.cpp) [Code-mandelbrot](13main_mandelbrot.cpp) [Code](Adriana Paluszny) 
+4. 17/01 9:00-12:00 and 1:00-2:30 (Friday)  Object oriented programming (creating objects). Copy constructor, members, operators, mutators, accessors. MSVC Debugger. Introduction to Inheritance, Polymorphism & Encapsulation in C++. [Slides4](ACSE5-2020-Lecture4.pdf) - [Code-debug](10debug.cpp) - [Code-gnuplot](10gnuplot.cpp) - [Code-operators](11operators.cpp) - [Code-class-copy](12class_copy_etal.cpp) - [Code-mandelbrot](13main_mandelbrot.cpp) [Code](Adriana Paluszny) 
 
-Other concepts covered: Inheritance: Pure virtual functions (Creating interface objects). Also: switch, if, while, for, iterator, reverse_iterator, const. Revisiting header and source files. [An additional example](lecture5_code.zip) [Slides5](ACSE5-2020-Lecture5.pdf) [Slides_ExtensiveReview](ACSE5-2020-Lecture5-ExtensiveReview.pdf) [Slides_SummaryReview](ACSE5-2020-Lecture5-SummaryReview.pdf) [Glossary](http://www.stroustrup.com/glossary.html) 
+Other concepts covered: Inheritance: Pure virtual functions (Creating interface objects). Also: switch, if, while, for, iterator, reverse_iterator, const. Revisiting header and source files. [An additional example](lecture5_code.zip) - [Slides5](ACSE5-2020-Lecture5.pdf) - [Slides_ExtensiveReview](ACSE5-2020-Lecture5-ExtensiveReview.pdf) - [Slides_SummaryReview](ACSE5-2020-Lecture5-SummaryReview.pdf) [Glossary](http://www.stroustrup.com/glossary.html) 
 
 **Week 2**
 
@@ -66,7 +66,7 @@ Other concepts covered: Inheritance: Pure virtual functions (Creating interface 
 
 8. 23/01 9:00-12:00 (Thursday) C++ standards. More about memory management. Reference Counting and smart pointers. (Steven Dargaville)
 
-9. 24/01 9:00-12:00 (Friday) Wavelets and the Fast Wavelet Transform (FWT) (Steven Dargaville)
+9. 24/01 9:00-12:00 (Friday) Wavelets (Steven Dargaville)
 
 **Week 3**
 
