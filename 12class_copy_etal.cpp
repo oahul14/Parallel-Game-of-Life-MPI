@@ -2,7 +2,7 @@
 #include <string>			// standard string library
 #include <vector>
 
-/*
+
 using namespace std;
 
 class Person
@@ -71,10 +71,10 @@ public:
 private:
 	//let's describe a student
 	int id_;
-};*/
+};
 
 //move to another file - create .h and .cpp
-/*class Programmer : public Person
+class Programmer : public Person
 {
 public:
 	Programmer()
@@ -105,7 +105,7 @@ private:
 	//let's describe a student
 	int years_of_experience_;
 };
-*/
+
 //int main()
 //{
 	//let's describe a student
