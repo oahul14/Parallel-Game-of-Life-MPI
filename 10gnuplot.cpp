@@ -5,7 +5,7 @@ using namespace std;
 
 //example of how to plot a simple graph 
 //using gnuplot, and C++
-/*int main()
+int main()
 {
 	//create some data
 	ofstream ofs("out.dat");
@@ -30,7 +30,7 @@ using namespace std;
 		fprintf(gnuplotPipe, "plot \"out.dat\" using 1:2\n");
 		//Add a second plot using 1st(= x) and 3rd(= y) columns 
 		fprintf(gnuplotPipe, "replot \"out.dat\" using 1:3 every 5\n");
-		//If the “using” keyword is not specified, 1st and 2nd columns are assumed : gnuplot > plot “file.dat”
+		//If the â€œusingâ€ keyword is not specified, 1st and 2nd columns are assumed : gnuplot > plot â€œfile.datâ€
 		//"every" -> plots every 5 data points
 
 		//example 4: (try turning this on to save your plot to a file)
@@ -46,4 +46,4 @@ using namespace std;
 		_pclose(gnuplotPipe);    //close pipe
 	}
 	system("pause");
-}*/
+}
