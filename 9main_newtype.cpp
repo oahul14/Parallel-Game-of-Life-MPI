@@ -5,7 +5,7 @@
 
 using namespace std;
 
-/*int main() 
+int main() 
 {
 	//getting system info
 	char buf[10000];
@@ -40,4 +40,4 @@ using namespace std;
 		siSysInfo.dwActiveProcessorMask);
 	
 	cin.get();
-}*/
+}

@@ -1,142 +1,154 @@
 #include <iostream>		// input/output standard library
 #include <string>			// standard string library
 #include <vector>
+#include <map>
+#include "Student.h"
 
 using namespace std;
-
-//simple class
-enum DegreeType { Undergraduate, MSc, PhD };
-enum Department { EarthScience, ComputerScience, Mathematics };
-
-string randomName(int len)
-{
-	string a = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-	string r;
-	for (int i = 0; i < len; i++) r.push_back(a.at(size_t(rand() % 62)));
-	return r;
-}
-
-class Student
-{
-public:
-	Student()
-	{
-		static int counter(0);
-		
-		std::cerr << "\nConstructor" << counter++;
-		name = "NoName";
-		student_id = 0;
-		type_of_degree = Undergraduate;
-		department = EarthScience;
-	}
-	Student(const Student& s) 
-	{ 
-		static int counter(0);
-		std::cerr << "\nCopy Constructor" << counter++;
-		name = s.name;
-		student_id = s.student_id;
-		type_of_degree = s.type_of_degree;
-		department = s.department;
-	} 
-	~Student()
-	{
-		static int counter(0);
-		std::cerr << "\nDestructor" << counter++;
-	}
-	void Random()
-	{
-		name = randomName(10);
-		student_id = rand()%100000;
-		type_of_degree = DegreeType(rand() % 2);
-		department = Department(rand() % 2);
-	}
-	void Print()
-	{
-		//first version
-		//cout << "\nName: " << name;
-		//cout << "\tID: " << student_id;
-		//cout << "\tType of degree: " << type_of_degree;
-		//cout << "\tDepartment: " << department;
-		
-		//second version
-		cout << "\nName: " << name;
-		cout << "\t" << float_that_we_forgot;
-		cout << "\tID: " << student_id;
-		cout << "\tType of degree: ";
-		if (type_of_degree == Undergraduate) cout << "Undergraduate";
-		if (type_of_degree == MSc) cout << "MSc";
-		if (type_of_degree == PhD) cout << "PhD";
-		
-		cout << "\tDepartment: ";
-		switch (department) //its a multiple selection if statement
-		{
-		case EarthScience:
-			cout << "EarthScience";
-			break;
-		case ComputerScience:
-			cout << "ComputerScience"; 
-			break;
-		case Mathematics:
-			cout << "Mathematics";
-			break;
-		default:
-			break;
-		}
-	}
-private:
-	//let's describe a student
-	std::string name;
-	int student_id;
-	DegreeType type_of_degree;
-	//std::string degree;
-	Department department;
-	double float_that_we_forgot;
-};
-
+using namespace spider;
+//enum Color { RED, BLUE, GREEN, BLACK };
+//
+//struct Satellite
+//{
+//	//by default everything is public
+//};
+//
+////create our own type
+//class Earth
+//{
+//	//by default everything is private
+//public:
+//	//Constructor
+//	Earth() : age_(0)
+//	{
+//		//age_ = 0;
+//		cerr << "\nEarth:: Constructor!";
+//	}
+//	//Destructor
+//	~Earth() 
+//	{
+//		cerr << "\nEarth:: Destructor!";
+//	}
+//	//accessor
+//	const double& GetAge() const //without making a copy
+//	{
+//		return age_;
+//	}
+//	 double GetAge_MakeCopy() const // making a copy
+//	{
+//		return age_;
+//	}
+//	//accessor+mutator
+//	double& Age()//without making a copy
+//	{
+//		return age_;
+//	}
+//	//mutator
+//	void SetAge(const double& age)
+//	{
+//		age_ = age;
+//	}
+//
+//private:
+//	double age_;
+//};
+//
 //int main()
 //{
-	//let's describe a student
-	//std::string name;
-	//int student_id;
-	//std::string type_of_student;
-	//std::string degree;
-	//DegreeType degree;
+//	cerr << "\nHello Earth!";
+//	{
+//		Earth our_earth_;
+//		our_earth_=Earth();
+//		cerr << "\nThe age is: " << our_earth_.GetAge();
+//		our_earth_.SetAge(4.5);
+//		cerr << "\nThe age is: " << our_earth_.GetAge();
+//
+//		our_earth_.Age() = 10;
+//		cerr << "\nThe age is: " << our_earth_.Age();
+//	} //nested scope
+//
+//	system("pause");
+//};
+/*namespace otherLibrary {
 
-	//Student s1;
-	//s1.Print(); //first without constructor
-	//cin.get();
+	class Student {};
 
-//then create constructor
-	//printout
-	//and destructor
+}*/
 
-	//now moved into a class
-	//{
-	//	std::vector<Student>  cohort;
-		//{//add this after the print outs
+//spider::Student();
+//otherLibrary::Student();
 
-		//	Student s1;
+//void ChangeStudentName_To_PeterParker(Student& s)
+void ChangeStudentName_To_PeterParker(Student s) //removed the &
+{
+	s.SetName("Peter Parker");
+}
+
+void VerifyStudentName_Is_PeterParker(const Student& s)
+{
+	if (s.GetName() == "Peter Parker")
+		cerr << "\nTake a picture!";
+}
+int main()
+{
+	Student *student = new Student;
+	//available and defined in the base class
+	student->Random();
+	student->Print(); //overwriting the base class
+	delete student;
+
+	/*HumanBeing *hb_student = new HumanBeing;
+	hb_student->Age(); //available and defined in the base class
+	hb_student->Print();
+	delete hb_student;
+
+	HumanBeing *new_student = new HumanBeing;
+	new_student = new Student; //polymorphism
+	new_student->Print();
+	delete new_student;*/
+
+	//HumanBeing *new_student = new HumanBeing;
+	//dynamic_cast<Student*>(new_student)->Print();
+
+
+	system("pause");
+	//	Student s1;
 			//cohort.push_back(s1);
 		//}
 		//cerr << "\nNow delete vector!";
 	//}
 	//why is the destructor called twice?
-
-	/*{
-		Student  cohort[3];
-		for(int i = 0; i < 3; i++)
+	Student::AvailableDepartments();
+	{
+		//std::vector<Student>  cohort(5);
+		std::map<string, Student>  cohort;
+		for (int i = 0; i < 3; i++)
 		{
-			Student s1;
-			s1.Random();
-			cohort[i] = s1;
+			Student s;
+			s.Random();
+			cohort[s.GetName()] = s;
 		}
+		/*for (int i = 0; i < cohort.size(); i++)
+		{
+			//Student s1;
+			cohort[i].Random();
+			if (i > 0)
+				cohort[i] = cohort[i] + cohort[i - 1];
+			//cohort[i] = s1;
+			//cohort.push_back(s1);
+		}
+		ChangeStudentName_To_PeterParker(cohort[0]);*/
 		cerr << "\nNow printing:";
-		for (auto s : cohort)
-			s.Print();
+		for (auto& s : cohort)
+		{
+			VerifyStudentName_Is_PeterParker(s.second);
+			s.second.Print();
+		}
 		cerr << "\nNow delete vector!";
-	}*/ //internal representations may copy/destruct the objects more often than we think
+	} //internal representations may copy/destruct the objects more often than we think
 
 	//why destructing so many times? what is happening???
 	//the copy constructor is being called
-//	cin.get();
-//}
+	cin.get();
+	return 0;
+};

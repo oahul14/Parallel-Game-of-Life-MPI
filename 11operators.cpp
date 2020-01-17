@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-
+/*
 class Alpha 
 {
 public:
@@ -39,4 +39,4 @@ int main()
 	cout << "\nA: " << (hans*gretel).alpha_ << "\n";
 	cout << "\nB: " << witch.alpha_ << "\n";
 	system("pause");
-}
+}*/

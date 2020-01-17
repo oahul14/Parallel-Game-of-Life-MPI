@@ -1,6 +1,6 @@
 #include <fstream>
 #include <iostream>
-/*#include <chrono>
+#include <chrono>
 
 using namespace std;
 
@@ -31,7 +31,7 @@ double mapToImaginary(int y, int imageHeight, double minI, double maxI)
 	return y * (range / imageHeight) + minI;
 }
 
-int main()
+int main11()
 {
 	int imageWidth(1024), imageHeight(1024), maxN(1024);
 	double minR(-1.5), maxR(0.7), minI(-1), maxI(1);
@@ -46,7 +46,7 @@ int main()
 	//f >> imageWidth >> imageHeight >> maxN;
 	//f >> minR >> maxR >> minI >> maxI;
 
-	ofstream g("output_image.ppm");
+	ofstream g("more_complex_image.ppm");
 	g << "P3" << endl;
 	g << imageWidth << " " << imageHeight << endl;
 	g << "255" << endl;
@@ -59,7 +59,6 @@ int main()
 		{
 			double cr = mapToReal(j, imageWidth, minR, maxR);
 			double ci = mapToImaginary(i, imageHeight, minI, maxI);
-
 			int n = findMandelbrot(cr, ci, maxN);
 
 			int r = (int)sqrt(n);
@@ -81,4 +80,4 @@ int main()
 
 	system("pause");
 	return 0;
-}*/
+}
