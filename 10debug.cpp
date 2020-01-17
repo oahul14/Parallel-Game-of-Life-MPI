@@ -5,7 +5,7 @@
 
 using namespace std;
 
-/*
+
 int main()
 {
 	//std::vector<double> data(20);
@@ -53,4 +53,3 @@ int main()
 
 	//fill the data 
 }
-*/
