@@ -7,7 +7,7 @@ You will be taught practical skills for analysing software for potential bugs as
 
 This will be followed by an introduction to object-oriented programming with C++ including how to define and use classes, inheritance, overloaded functions and polymorphism.
 
-These will all be taught in the context of scientific programming and numerical methods, with relevant examples and exercises being used to illustrate the programming concepts. Regular programming assignments will bring together all the skills that will be learned throughout the course and build upon the skills taught in the previous programming and numerical methods courses as part of the ACS MSc. 
+These will all be taught in the context of scientific programming and numerical methods, with relevant examples and exercises being used to illustrate the programming concepts. Regular programming assignments will bring together all the skills that will be learned throughout the course and build upon the skills taught in the previous programming and numerical methods courses as part of ACSE. 
 
 ## Learning outcomes:
 
