@@ -66,7 +66,7 @@ Other concepts covered: Inheritance: Pure virtual functions (Creating interface 
 
 8. 23/01 9:00-12:00 (Thursday) C++ standards. More about memory management. Reference Counting and smart pointers. (Steven Dargaville)
 
-9. 24/01 9:00-12:00 (Friday) (Steven Dargaville)
+9. 24/01 9:00-12:00 (Friday) Wavelets (Steven Dargaville)
 
 **Week 3**
 
