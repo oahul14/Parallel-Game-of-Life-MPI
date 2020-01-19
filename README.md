@@ -100,7 +100,7 @@ The homework and the assignment can be completed individually or in pairs, the f
 
 ## Feedback and Questions
 - You can send any questions/feedback to Adriana (apaluszn@imperial.ac.uk) or Steven (s.dargaville@imperial.ac.uk) or ask any of the team members directly during class.
-- If you would like to make a question or leave feedback anonymously: please go to www.menti.com and use the code 74 53 1
+- If you would like to make a question or leave feedback anonymously: please go to https://www.menti.com/7tzticwtyd
 Try not to hurt our feelings though ! 🤓
 
 ## GTA Blackboard {comments by the GTA team}
