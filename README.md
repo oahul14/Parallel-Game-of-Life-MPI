@@ -94,7 +94,7 @@ The homework and the assignment can be completed individually or in pairs, the f
 
 2. [Homework 2](ACSE5-2020-Homework2.pdf): Implementing a medical imaging filter. 
 
-3. Assignment: Implementing a linear solver. Due: 2nd of February @ midnight - early submissions welcome.
+3. Assignment: [Assignment link](ACSE5-Assignment.pdf) Implementing a linear solver. Due: 2nd of February @ midnight - early submissions welcome.
 
 4. Final Coursework: The final piece of coursework will be to be completed in-class, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment. On: 27th of January. 
 
