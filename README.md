@@ -58,7 +58,7 @@ Other concepts covered: Inheritance: Pure virtual functions (Creating interface 
 
 **Week 2**
 
-5. 20/01 9:00-12:00 (Monday) Memory management with C++ and cache hierarchy. Applied to linear systems and matrices. BLAS/LAPACK. Second Assignment. (Steven Dargaville) 
+5. 20/01 9:00-12:00 (Monday) Memory management with C++ and cache hierarchy. Applied to linear systems and matrices. BLAS/LAPACK. Second Assignment. [Slides6](Lecture_6.pdf) [Code](lecture_6_code.zip) (Steven Dargaville) 
 
 6. 21/01 9:00-12:00 (Tuesday)  More on BLAS/LAPACK. Assembly and optimisation. Vectorisation/MMX/SSE/SSE2. Introduction to templates. (Steven Dargaville)
 
