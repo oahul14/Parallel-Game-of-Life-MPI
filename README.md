@@ -62,7 +62,7 @@ Other concepts covered: Inheritance: Pure virtual functions (Creating interface 
 
 6. 21/01 9:00-12:00 (Tuesday) More on BLAS/LAPACK. Assembly and optimisation. Vectorisation/MMX/SSE/SSE2. Introduction to templates. [Slides7](Lecture_7.pdf) [Code](lecture_7_code.zip)  (Steven Dargaville)
 
-7. 22/01 9:00-12:00 (Wednesday) Polymorphism in C++. Sparse Matrix Formats. Introduction to PETSc. (Steven Dargaville)
+7. 22/01 9:00-12:00 (Wednesday) Polymorphism in C++. Sparse Matrix Formats. Introduction to PETSc. [Prelim_Code](lecture_8_code_prelim.zip) (Steven Dargaville)
 
 8. 23/01 9:00-12:00 (Thursday) C++ standards. More about memory management. Reference Counting and smart pointers. (Steven Dargaville)
 
