@@ -64,9 +64,9 @@ Other concepts covered: Inheritance: Pure virtual functions (Creating interface 
 
 7. 22/01 9:00-12:00 (Wednesday) Sparse Matrix Formats. Introduction to PETSc. [Slides8](Lecture_8.pdf) [Prelim_Code](lecture_8_code_prelim.zip) [full_Code](lecture_8_code_full.zip) (Steven Dargaville)
 
-8. 23/01 9:00-12:00 (Thursday) Polymorphism in C++. C++ standards. More about memory management. Reference Counting and smart pointers. (Steven Dargaville)
+8. 23/01 9:00-12:00 (Thursday) Polymorphism in C++. C++ standards. More about memory management. Reference Counting and smart pointers. [Slides9](Lecture_9.pdf) [Code](lecture_9_code.zip) (Steven Dargaville)
 
-9. 24/01 9:00-12:00 (Friday) Wavelets (Steven Dargaville)
+9. 24/01 9:00-12:00 (Friday) Continuation of smart pointers and modern C++ standards (Steven Dargaville)
 
 **Week 3**
 
