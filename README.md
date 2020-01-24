@@ -66,7 +66,7 @@ Other concepts covered: Inheritance: Pure virtual functions (Creating interface 
 
 8. 23/01 9:00-12:00 (Thursday) Polymorphism in C++. C++ standards. More about memory management. Reference Counting and smart pointers. [Slides9](lecture_9.pdf) [Code](lecture_9_code.zip) (Steven Dargaville)
 
-9. 24/01 9:00-12:00 (Friday) Continuation of smart pointers and modern C++ standards (Steven Dargaville)
+9. 24/01 9:00-12:00 (Friday) Continuation of smart pointers and modern C++ standards [Code](lecture_10_code.zip) (Steven Dargaville)
 
 **Week 3**
 
