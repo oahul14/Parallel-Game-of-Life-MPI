@@ -70,7 +70,7 @@ Other concepts covered: Inheritance: Pure virtual functions (Creating interface 
 
 **Week 3**
 
-10. 27/01 9:00-12:00 (Monday) [assessment_matrix](assessment_matrix.zip) **In-class Coursework**
+10. 27/01 9:00-12:00 (Monday) [assessment_matrix](assessment_matrix.zip) [coursework](ACSE5-Final-Coursework-2020.pdf) **In-class Coursework**
 
 11. 28/01 9:00-12:00 (Tuesday) (Adriana Paluszny)
 
@@ -96,7 +96,7 @@ The homework and the assignment can be completed individually or in pairs, the f
 
 3. Assignment: [Assignment link](ACSE5-Assignment.pdf) Implementing a linear solver. Due: 2nd of February @ midnight - early submissions welcome.
 
-4. Final Coursework: The final piece of coursework will be to be completed in-class, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment. On: 27th of January. [assessment_matrix](assessment_matrix.zip)
+4. Final Coursework: The final piece of coursework will be to be completed in-class, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment. On: 27th of January. [assessment_matrix](assessment_matrix.zip) [coursework](ACSE5-Final-Coursework-2020.pdf)
 
 ## Feedback and Questions
 - You can send any questions/feedback to Adriana (apaluszn@imperial.ac.uk) or Steven (s.dargaville@imperial.ac.uk) or ask any of the team members directly during class.
