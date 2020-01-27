@@ -70,7 +70,7 @@ Other concepts covered: Inheritance: Pure virtual functions (Creating interface 
 
 **Week 3**
 
-10. 27/01 9:00-12:00 (Monday) **In-class Coursework**
+10. 27/01 9:00-12:00 (Monday) [assessment_matrix](assessment_matrix.zip) **In-class Coursework**
 
 11. 28/01 9:00-12:00 (Tuesday) (Adriana Paluszny)
 
