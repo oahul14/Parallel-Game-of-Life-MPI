@@ -72,7 +72,7 @@ Other concepts covered: Inheritance: Pure virtual functions (Creating interface 
 
 10. 27/01 9:00-12:00 (Monday) [assessment_matrix](assessment_matrix.zip) [coursework](ACSE5-Final-Coursework-2020.pdf) **In-class Coursework** https://classroom.github.com/a/ebApvU67
 
-11. 28/01 9:00-12:00 (Tuesday) (Adriana Paluszny)
+11. 28/01 9:00-12:00 (Tuesday) Wavelets [Slides11](lecture_11.pdf)  [Code](lecture_11_code.zip) (Steven Dargaville) Image processing (Adriana Paluszny)
 
 12. 29/01 9:00-12:00 (Wednesday) (Adriana Paluszny) **External Invited Lecture**
 
