@@ -14,10 +14,6 @@
 * Exectution: 
 ```mpiexec -n <number of processors> <execution fname> <rows> <cols> <iterations> <periodic condition>```
 
-### Analysis Part
-* Efficiency Definition: 
-$$E = \frac{1}{P}\frac{T(serial)}{T(parallel)}$$
-
 ## 1. Game of Life Example
 ![Alt Text](./post_processing/periodic_50x70_200.gif)
 ![Alt Text](./post_processing/non_periodic_50x70_200.gif)
