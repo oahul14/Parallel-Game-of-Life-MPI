@@ -1,5 +1,3 @@
-# acse-6-individual-assignment-acse-hl1319
-
 ## Basic Information
 
 ### About the code: 
