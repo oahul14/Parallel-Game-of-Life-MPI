@@ -16,7 +16,7 @@
 
 ### Analysis Part
 * Efficiency Definition: 
-$ E = \frac{1}{P}\frac{T(serial)}{T(parallel)} $
+$$E = \frac{1}{P}\frac{T(serial)}{T(parallel)}$$
 
 ## 1. Game of Life Example
 ![Alt Text](./post_processing/periodic_50x70_200.gif)
